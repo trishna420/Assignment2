@@ -1,0 +1,34 @@
+.img-size{
+    height: 300px;
+    width: 300px;
+}
+.text-part{
+    text-align: center;
+}
+.nd-part{
+    width: 100%;
+    height: 80px;
+}
+.card-img-top{
+    width: 300px;
+    background-color: darkgrey;
+    align-items: center;
+}
+.woman{
+    text-align: center;
+}
+.btn btn-success{
+    color: olivedrab;
+}
+.woman{
+    color: red;
+}
+.container feature my-5{
+            width: 70px;    
+}
+.container1{
+    background-color: palegoldenrod;
+}
+.jacket-card{
+    border: 0;
+}
